@@ -1,1 +1,1 @@
-# SurvivalAnalyticsUsing-SAS
+Attrition is a major problem faced by many organizations and there is strong need to develop strategies to mitigate it. Our objective is to use the value of survival analytics in enterprise decision making, specifically in predicting the attrition rate with the goal of reducing it and to retain high-performing employees.
